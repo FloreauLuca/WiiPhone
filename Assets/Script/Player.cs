@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
+    private GameObject merge1;
     public GameObject merge2;
     // Start is called before the first frame update
     void Start()
