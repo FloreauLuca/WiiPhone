@@ -17,5 +17,6 @@ public class Player : MonoBehaviour
     {
         Destroy(merge1);
         Debug.Log("ECS");
+        Debug.Log("ECS TEst");
     }
 }
